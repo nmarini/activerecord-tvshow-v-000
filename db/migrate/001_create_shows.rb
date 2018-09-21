@@ -7,5 +7,6 @@ class CreateShows < ActiveRecord::Migration[5.1]
       i.integer :rating
 
       i.timestamps
+    end
   end
 end
